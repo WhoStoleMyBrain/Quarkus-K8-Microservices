@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.decodedbytes -DartifactId=microservices-quarkus

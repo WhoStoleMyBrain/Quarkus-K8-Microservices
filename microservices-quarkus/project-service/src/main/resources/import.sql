@@ -1,0 +1,4 @@
+INSERT INTO Project(id, projectId, projectName, durationInMonths, numberOfResources, projectStatus, clientName) VALUES (1, 12345, 'Sample Project 1', 6, 21, 'NEW', 'Client name 1');
+INSERT INTO Project(id, projectId, projectName, durationInMonths, numberOfResources, projectStatus, clientName) VALUES (2, 22222, 'Sample Project 2', 4, 20, 'CREATED', 'Client name 1');
+INSERT INTO Project(id, projectId, projectName, durationInMonths, numberOfResources, projectStatus, clientName) VALUES (3, 33333, 'Sample Project 3', 20, 5, 'DELAYED', 'Client name 1');
+INSERT INTO Project(id, projectId, projectName, durationInMonths, numberOfResources, projectStatus, clientName) VALUES (4, 44444, 'Sample Project 4', 1, 100, 'IN_PROGRESS', 'Client name 1');
